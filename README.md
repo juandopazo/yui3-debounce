@@ -1,4 +1,7 @@
-# Debouncing for YUI [![Build Status](https://travis-ci.org/juandopazo/yui3-debounce.png)](https://travis-ci.org/juandopazo/yui3-debounce)
+YUI 3 Debounce
+==============
+
+![Build Status](https://travis-ci.org/juandopazo/yui3-debounce.png)
 
 Debouncing is a similar strategy to throttling (see [yui-throttle](http://yuilibrary.com/yui/docs/api/classes/YUI.html#method_throttle))
 
